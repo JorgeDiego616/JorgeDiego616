@@ -15,6 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+<summary>About me</summary>
+
+[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+
+<div align="left">
+
+ - Country - Mexico.
+ - Languagues - English, Spanish.
+ - Interests - AI, problem-solving & data base.
+ - Hobbies - Tenis, reading, martial arts & gym.
+ - Birthday - 13th of January 2005.
+ - Best phrase - John 15:16
+ 
+
+</div>
+
+</details>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
