@@ -1,4 +1,4 @@
-## Hi there 👋
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
 <!--
 **JorgeDiego616/JorgeDiego616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
