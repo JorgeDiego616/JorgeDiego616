@@ -9,7 +9,10 @@ Here are some ideas to get you started:
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" />
+<h3 align="left">
+Motivated, focused, and hard-working team member with a strong commitment to contributing positively to team success. Skilled at working under pressure, thriving in team environments, and quickly adapting to changing priorities. Seeking new opportunities to further develop my skills and make a meaningful impact that contributes to societal progress.
+</h3>
 &emsp;
 
 -------------------
@@ -25,7 +28,7 @@ Here are some ideas to get you started:
  - Interests - AI, problem-solving & data base.
  - Hobbies - Tenis, reading, martial arts & gym.
  - Birthday - 13th of January 2005.
- - Best phrase - John 15:16
+ - One of my favourite quotes - You did not choose me, but I chose you and appointed you so that you might go and bear fruit—fruit that will last—and so that whatever you ask in my name the Father will give you. John 15:16. Glory to God and glory to the lord Jesus.
 </div>
 </details>
 
