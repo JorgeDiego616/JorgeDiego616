@@ -5,21 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+-------------------
+&emsp;
+<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+&emsp;
+
+-------------------
 
 <details>
 <summary>About me</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
 <div align="left">
 
  - Country - Mexico.
@@ -28,10 +26,7 @@ Here are some ideas to get you started:
  - Hobbies - Tenis, reading, martial arts & gym.
  - Birthday - 13th of January 2005.
  - Best phrase - John 15:16
- 
-
 </div>
-
 </details>
 
 ### 🛠 &nbsp;Tech Stack
