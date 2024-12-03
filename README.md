@@ -34,7 +34,7 @@ Motivated, focused, and hard-working team member with a strong commitment to con
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🎓 Courses
@@ -52,6 +52,6 @@ Motivated, focused, and hard-working team member with a strong commitment to con
 
 ## 🙋‍♀️ Let's Connect
 
-<a href="jdchaparro2005@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-jdchaparro2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com)
 
 
